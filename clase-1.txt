@@ -1,0 +1,51 @@
+-1 TP Python - 1 TP C
+-Grupos de a 2
+-Defensa individual del TP
+-Recuperatorio: 1 de los 2 en forma individual
+------------------------------------------------------
+
+Para rendir la materia se puede elegir (si estas regular) hacer un TP o rendir el final.
+
+------------------------------------------------------
+
+Estructura:
+
+-Martes: Teoría todo el dia (con Federico)
+-Jueves: Primer módulo laboratorio, segundo módulo programación en papel
+
+
+------------------------------------------------------
+
+Introducción a Python: (.py)
+
+-Sintaxis sencilla
+-Interpretado
+-Sistema de Tipo subyacente (no explicíto) 
+
+Tipos básicos
+-Integer 3
+-Long 4L
+-Float 15.57
+-Complejo 7+5j
+-Strings (cadenas de texto) "Hola"
+-Boolean: true - false
+
+Python te deja hacer esto:
+	c = "Hola mundo"
+	c = 3
+
+
+Operadores:
+
+	+, -, *, /
+	** exponente
+
+Librerias
+
+from math import * (importa todo de la libreria math)
+
+(funciones como: abs, cos, sin, log10, sqrt, ...)
+
+
+
+	
