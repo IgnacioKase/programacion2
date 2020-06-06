@@ -1,3 +1,6 @@
 [submodule "TP1"]
 	path = TP1
 	url = https://github.com/Lycoder/TP1.git
+[submodule "prog2-tp2"]
+	path = prog2-tp2
+	url = https://github.com/IgnacioKase/prog2-tp2
