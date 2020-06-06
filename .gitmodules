@@ -4,3 +4,6 @@
 [submodule "prog2-tp2"]
 	path = prog2-tp2
 	url = https://github.com/IgnacioKase/prog2-tp2
+[submodule "prog2-tpfinal"]
+	path = prog2-tpfinal
+	url = https://github.com/IgnacioKase/prog2-tpfinal
